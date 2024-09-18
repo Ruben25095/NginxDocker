@@ -4,6 +4,6 @@ Configurar un Docker con Nginx con el puerto 80 eh instalar dentro de ese Docker
 # Instlacion de Nginx
 Ejecutamos el siguiente comando para descargar la imagen de nginx
 
-![image](https://github.com/user-attachments/assets/e6588abd-afd1-4178-8113-4f1dd8738dbe)
+![image](https://github.com/user-attachments/assets/3a229396-cfbd-4ba8-9bb2-d8b1e584e73d)
 
 
