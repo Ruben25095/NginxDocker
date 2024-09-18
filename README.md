@@ -31,6 +31,20 @@ Una vez dentro de la imagen de nginx la acualizamos y intlamos python3
 * apt install python3-pip
 
 **Cambiamos de usuario y creamos el directorio donde crearemos el entorno virtual para flask**
+![image](https://github.com/user-attachments/assets/f1c82b54-c99f-46e2-a45e-321a1e1f33b9)
+
+Iniciamos el entorno virtual y procemos a instalar flask 
+![image](https://github.com/user-attachments/assets/ca3bb978-d5e6-4735-a01f-7a801b1b882d)
+
+![image](https://github.com/user-attachments/assets/fcdf1f0b-99ba-4cf8-8b3d-7aa78d9ec42e)
+
+
+creamos un archivo con el hola mundo de flask 
+
+![image](https://github.com/user-attachments/assets/478c9cc0-312e-475b-978f-1720e4e8b2fc)
+
+Modificamos el archivo defaulf.conf que se encuentra en la ruta **/etc/nginx/conf.d/defaulf.conf**
+
 
 
 
