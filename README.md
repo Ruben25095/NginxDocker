@@ -46,6 +46,11 @@ creamos un archivo con el hola mundo de flask
 Modificamos el archivo defaulf.conf que se encuentra en la ruta **/etc/nginx/conf.d/defaulf.conf**
 
 
+Entramos a la aplicacion 
+![image](https://github.com/user-attachments/assets/78ae6458-9edf-47ec-ac36-c07ff7c13858)
+
+
+
 
 
 
